@@ -5,7 +5,7 @@ groups: [topics/induction]
 requires: [simple-induction]
 next: [fibonacci-bound, fast-power-correct, prime-factorization-exists, sqrt2-irrational-strong-induction]
 ---
-In [[simple-induction]], the step from $k$ to $k+1$ may only use $P(k)$. Sometimes we need more: $P(k-1)$, or $P(k/2)$, or "$P$ of some smaller number". **Strong induction** (Swedish: *stark induktion*) allows assuming **all** previous cases:
+In [[simple-induction]], the step from $k$ to $k+1$ may only use $P(k)$. Sometimes we need more: $P(k-1)$, or $P(k/2)$, or "$P$ of some smaller number". **Strong induction** allows assuming **all** previous cases:
 
 > If we show
 > - $P(0)$, and

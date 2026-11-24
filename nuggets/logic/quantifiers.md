@@ -5,11 +5,11 @@ groups: [topics/logic]
 requires: [propositions-and-connectives]
 next: [quantifier-order, negating-quantifiers, proving-quantified-statements, empty-domain-quantifiers]
 ---
-Propositional logic cannot talk about numbers: "$x > y$" is not true or false until we know $x$ and $y$. **Predicate logic** (Swedish: *predikatlogik*) adds two things.
+Propositional logic cannot talk about numbers: "$x > y$" is not true or false until we know $x$ and $y$. **Predicate logic** adds two things.
 
 A **predicate** is a statement about something we do not know yet: "$P(x)$ = $x$ is even", "$Q(x,y)$ = $x + y > 15$". Also $x > y$ is a predicate with two arguments. A predicate with no arguments is just a proposition.
 
-A **quantifier** (Swedish: *kvantifierare* or *kvantor*) turns a predicate into a proposition:
+A **quantifier** turns a predicate into a proposition:
 
 - $\forall x \in A.\; P(x)$, "for all $x$ in $A$, $P(x)$ holds" (*universal* quantifier);
 - $\exists x \in A.\; P(x)$, "there exists an $x$ in $A$ such that $P(x)$" (*existential* quantifier);

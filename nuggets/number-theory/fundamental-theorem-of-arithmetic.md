@@ -12,7 +12,7 @@ The natural numbers have two kinds of structure.
 
 **Theorem (fundamental theorem of arithmetic).** Every natural number $n \ge 2$ can be written as a product of primes **in exactly one way** (up to the order of the factors).
 
-(A *theorem* — Swedish *sats* — is an important proved result; a *lemma* is a smaller result mainly used to prove something else.)
+(A *theorem* is an important proved result; a *lemma* is a smaller result mainly used to prove something else.)
 
 **Existence** is [[prime-factorization-exists]].
 

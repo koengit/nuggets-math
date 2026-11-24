@@ -5,7 +5,7 @@ groups: [topics/graphs]
 requires: [directed-graph]
 next: [topological-ordering-iff-acyclic, ex-count-topological-orderings]
 ---
-Let $G = (V, E)$ be a directed graph. A **topological ordering** (Swedish: *topologisk ordning*) of $G$ is a sequence
+Let $G = (V, E)$ be a directed graph. A **topological ordering** of $G$ is a sequence
 $$ v_1, v_2, \ldots, v_n $$
 containing every node of $V$ exactly once, such that **all arrows point from left to right**:
 $$ \text{for all } 1 \le i, j \le n:\; (v_i, v_j) \in E \;\Rightarrow\; i < j . $$

@@ -5,7 +5,7 @@ groups: [topics/graphs]
 requires: [topological-ordering, proof-by-contradiction]
 next: [topological-ordering-iff-acyclic]
 ---
-Call a node $v$ a **source** (in the Swedish notes: *enstöring*, "loner") if no node points to it:
+Call a node $v$ a **source** if no node points to it:
 $$ \text{for all } u \in V:\; (u, v) \notin E, $$
 i.e. $\mathrm{indeg}(v) = 0$. A source is a good candidate to start a topological ordering with: nobody points to it!
 

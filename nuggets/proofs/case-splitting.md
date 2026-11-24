@@ -5,7 +5,7 @@ groups: [topics/proofs]
 requires: [equational-reasoning]
 next: [divisibility]
 ---
-In a proof by *case splitting* (Swedish: *falluppdelning*) we divide the situation into cases, and prove the statement separately in each case. The cases must
+In a proof by *case splitting* we divide the situation into cases, and prove the statement separately in each case. The cases must
 
 1. **cover all possibilities** (otherwise we have not proved the statement in general), and
 2. preferably **not overlap** (overlap is not wrong, just wasted work).

@@ -6,14 +6,14 @@ next: [functions, ex-set-operations, counting-sets]
 ---
 A **set** is a collection of things, its **elements**; $x \in A$ means "$x$ is an element of $A$". A set is determined by its elements only: order and repetition do not matter, so $\{1, 2, 3\} = \{3, 1, 2\} = \{1, 1, 2, 3\}$.
 
-Standard sets: $\N = \{0, 1, 2, \ldots\}$ (natural numbers; in this course $0 \in \N$), $\Z$ (integers, Swedish *heltal*), $\Q$ (rationals), $\R$ (reals), $\mathbb{B} = \{0, 1\}$ (booleans), and the empty set $\emptyset$.
+Standard sets: $\N = \{0, 1, 2, \ldots\}$ (natural numbers; in this course $0 \in \N$), $\Z$ (integers), $\Q$ (rationals), $\R$ (reals), $\mathbb{B} = \{0, 1\}$ (booleans), and the empty set $\emptyset$.
 
 **Operations.** For sets $A, B$ (inside some universe $U$):
 
 | | notation | elements |
 |---|---|---|
 | union | $A \cup B$ | in $A$ or in $B$ |
-| intersection (Swedish *snitt*) | $A \cap B$ | in $A$ and in $B$ |
+| intersection | $A \cap B$ | in $A$ and in $B$ |
 | difference | $A \setminus B$ | in $A$ but not in $B$ |
 | complement | $\overline{A}$ | in $U$ but not in $A$ |
 | product | $A \times B$ | pairs $(a, b)$ with $a \in A$, $b \in B$ |

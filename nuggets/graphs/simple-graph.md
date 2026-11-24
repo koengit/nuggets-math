@@ -6,7 +6,7 @@ requires: [sets]
 see-also: [directed-graph]
 next: [walks-paths-cycles, handshake-lemma]
 ---
-A **simple graph** (Swedish: *enkel graf*) $G$ is a pair $(V, E)$ of a finite set of nodes $V$ and a set of edges $E$, where each edge is a *subset* $\{u, v\} \subseteq V$ **of size 2**.
+A **simple graph** $G$ is a pair $(V, E)$ of a finite set of nodes $V$ and a set of edges $E$, where each edge is a *subset* $\{u, v\} \subseteq V$ **of size 2**.
 
 This means that:
 

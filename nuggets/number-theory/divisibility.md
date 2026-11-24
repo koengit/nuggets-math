@@ -5,7 +5,7 @@ groups: [topics/number-theory]
 requires: [quantifiers]
 next: [primes, gcd, modular-arithmetic]
 ---
-*Number theory* (Swedish: *talteori*) studies the properties of the integers $\Z$ and the natural numbers $\N$: divisibility, primes, modular arithmetic.
+*Number theory* studies the properties of the integers $\Z$ and the natural numbers $\N$: divisibility, primes, modular arithmetic.
 
 We write $a \mid b$ — "$a$ divides $b$", "$b$ is a multiple of $a$", "$b$ is divisible by $a$" — when
 $$ a \mid b \;\Longleftrightarrow\; \exists c \in \Z.\; a \cdot c = b . $$

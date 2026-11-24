@@ -14,4 +14,4 @@ This is a collection of **nuggets**: small, self-contained pieces of discrete ma
 - Press **+ compose** on nuggets to collect them into one page, and save that as your own collection.
 - In exercises, answers are hidden until you click **Show answer**. Try first!
 
-The main book is *Mathematics for Computer Science* by Lehman, Leighton and Meyer (MCS); for sets and functions also *Lemurell and Jonasson* (in Swedish).
+The main book is *Mathematics for Computer Science* by Lehman, Leighton and Meyer (MCS); for sets and functions also *Lemurell and Jonasson*.

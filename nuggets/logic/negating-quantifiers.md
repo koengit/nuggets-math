@@ -15,4 +15,4 @@ These are De Morgan's laws ([[logical-laws]]) for quantifiers: think of $\forall
 To negate a formula with several quantifiers, push the $\neg$ inwards, flipping every quantifier it passes:
 $$ \neg\, \forall x.\, \exists y.\, P(x,y) \;\equiv\; \exists x.\, \neg \exists y.\, P(x,y) \;\equiv\; \exists x.\, \forall y.\, \neg P(x,y). $$
 
-**Natural language is ambiguous.** "Alla har inte rätt" / "everybody is not right" can mean $\forall x \in M.\, \neg \mathrm{Right}(x)$ (nobody is right) or $\neg \forall x \in M.\, \mathrm{Right}(x) \equiv \exists x \in M.\, \neg\mathrm{Right}(x)$ (not everybody is right). Logic forces you to decide.
+**Natural language is ambiguous.** "Everybody is not right" can mean $\forall x \in M.\, \neg \mathrm{Right}(x)$ (nobody is right) or $\neg \forall x \in M.\, \mathrm{Right}(x) \equiv \exists x \in M.\, \neg\mathrm{Right}(x)$ (not everybody is right). Logic forces you to decide.

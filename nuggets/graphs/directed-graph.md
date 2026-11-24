@@ -5,7 +5,7 @@ groups: [topics/graphs]
 requires: [sets]
 next: [simple-graph, walks-paths-cycles, topological-ordering]
 ---
-A **directed graph** (Swedish: *riktad graf*), or *digraph*, $G$ is a pair $(V, E)$ of a finite set of **nodes** $V$ and a set of **edges** $E$. The nodes can be anything. The edges are *ordered* pairs $(u, v)$ with $u, v \in V$; when $(u,v) \in E$ we say that $u$ *points to* $v$, and draw an arrow $u \to v$.
+A **directed graph**, or *digraph*, $G$ is a pair $(V, E)$ of a finite set of **nodes** $V$ and a set of **edges** $E$. The nodes can be anything. The edges are *ordered* pairs $(u, v)$ with $u, v \in V$; when $(u,v) \in E$ we say that $u$ *points to* $v$, and draw an arrow $u \to v$.
 
 This means that:
 

@@ -5,7 +5,7 @@ groups: [topics/induction]
 requires: [simple-induction]
 next: [strong-induction]
 ---
-Many textbook induction proofs take steps that are too large for someone who has never seen one. Here is the way induction proofs should be written in this course (in assignments and on the exam).
+Many textbook induction proofs take steps that are too large for someone who has never seen one. Here is the way induction proofs should be written in this course (for example on an exam).
 
 1. **Always say that you use induction, which kind** (simple, strong, structural), **and over which variable.**
 2. **Write down $P(n)$** explicitly.

@@ -7,7 +7,7 @@ next: [euclids-algorithm, pulverizer]
 ---
 Which divisors do $a$ and $b$ have in common? For $12$ and $18$:
 $$ \text{divisors of } 12 = \{1, 2, 3, 4, 6, 12\}, \qquad \text{divisors of } 18 = \{1,2,3,6,9,18\}, $$
-common divisors: $\{1, 2, 3, 6\}$. The largest one is the **greatest common divisor**: $\gcd(12, 18) = 6$. (Swedish: *största gemensamma delare*, $\mathrm{sgd}$.)
+common divisors: $\{1, 2, 3, 6\}$. The largest one is the **greatest common divisor**: $\gcd(12, 18) = 6$.
 
 $$ \gcd(a, b) = \text{the largest } d \in \N \text{ with } d \mid a \text{ and } d \mid b . $$
 

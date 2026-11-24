@@ -4,7 +4,7 @@ kind: method
 groups: [topics/proofs]
 next: [sqrt2-irrational]
 ---
-To prove a statement $P$ by contradiction (Swedish: *motsägelsebevis*), we **assume $\neg P$** and derive something that is clearly false (a *contradiction*), for example $0 = 1$, or "$x$ is both even and odd", or something that contradicts one of our assumptions. Since $\neg P$ leads to something false, $\neg P$ must be false, so $P$ holds.
+To prove a statement $P$ by contradiction, we **assume $\neg P$** and derive something that is clearly false (a *contradiction*), for example $0 = 1$, or "$x$ is both even and odd", or something that contradicts one of our assumptions. Since $\neg P$ leads to something false, $\neg P$ must be false, so $P$ holds.
 
 In logic, this is the equivalence $(\neg P \Rightarrow \mathbf{false}) \Leftrightarrow P$ (see [[only-implication-and-false]]).
 

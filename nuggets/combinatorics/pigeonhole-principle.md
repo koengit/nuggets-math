@@ -5,7 +5,7 @@ groups: [topics/combinatorics]
 requires: [functions]
 next: [ex-pigeonhole, ex-subset-sum-divisible, compression-impossible]
 ---
-**The pigeonhole principle** (Swedish: *lådprincipen*). If you put more than $n$ things into $n$ boxes, at least one box contains at least 2 things. (11 pigeons, 10 holes: some hole has 2 pigeons.)
+**The pigeonhole principle**. If you put more than $n$ things into $n$ boxes, at least one box contains at least 2 things. (11 pigeons, 10 holes: some hole has 2 pigeons.)
 
 In terms of functions: if $|A| > |B|$, then no function $f : A \to B$ is injective.
 

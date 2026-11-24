@@ -4,7 +4,7 @@ kind: method
 groups: [topics/proofs]
 uses: [fundamental-theorem-of-arithmetic]
 ---
-A *lemma* (Swedish: *hjälpsats*) is a result we have already proved and now use as a step in another proof. When you use one, say clearly which lemma you use, and check that its assumptions hold.
+A *lemma* is a result we have already proved and now use as a step in another proof. When you use one, say clearly which lemma you use, and check that its assumptions hold.
 
 **To prove:** For every natural number $n \ge 2$ there is a prime number $p$ with $p \mid n$.
 

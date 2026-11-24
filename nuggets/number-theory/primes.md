@@ -5,7 +5,7 @@ groups: [topics/number-theory]
 requires: [divisibility]
 next: [ex-prime-definitions, euclids-lemma, prime-factorization-exists]
 ---
-A **prime number** (Swedish: *primtal*) is a natural number that has (almost) no divisors. There are two common definitions:
+A **prime number** is a natural number that has (almost) no divisors. There are two common definitions:
 
 (a) $p \in \N$, $p \ge 2$, and the only (positive) divisors of $p$ are $1$ and $p$.
 

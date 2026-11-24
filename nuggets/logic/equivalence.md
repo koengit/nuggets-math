@@ -5,7 +5,7 @@ groups: [topics/logic]
 requires: [implication]
 next: [logical-laws]
 ---
-$A \Leftrightarrow B$ ("$A$ if and only if $B$", often written "iff"; Swedish: *om och endast om*) is true when $A$ and $B$ have the **same** truth value.
+$A \Leftrightarrow B$ ("$A$ if and only if $B$", often written "iff") is true when $A$ and $B$ have the **same** truth value.
 
 | $A$ | $B$ | $A \Rightarrow B$ | $B \Rightarrow A$ | $(A \Rightarrow B) \wedge (B \Rightarrow A)$ | $A \Leftrightarrow B$ |
 |---|---|---|---|---|---|

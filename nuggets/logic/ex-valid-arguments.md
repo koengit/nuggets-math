@@ -18,7 +18,7 @@ An argument is *valid* if in every row of the truth table where all hypotheses a
 
 (a) **Valid.** This is the definition of equivalence in terms of implication ([[equivalence]]).
 
-(b) **Valid.** This is reasoning by cases ([[case-splitting]], Swedish *falluppdelning*): either $p$ or $\neg p$, and $r$ follows in both cases.
+(b) **Valid.** This is reasoning by cases ([[case-splitting]]): either $p$ or $\neg p$, and $r$ follows in both cases.
 
 (c) **Not valid.** With $p$ false and $q$ true, the hypothesis is true but the conclusion is false. (Confusing an implication with its converse.)
 

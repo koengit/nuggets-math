@@ -11,7 +11,7 @@ An operator can have these properties:
 
 - **associative:** $(x \# y) \# z = x \# (y \# z)$ for all $x, y, z$;
 - **commutative:** $x \# y = y \# x$ for all $x, y$;
-- a **unit element** (identity, Swedish *identitet* or *neutralt element*) $e$: $e \# x = x = x \# e$ for all $x$;
+- a **unit element** (identity or *neutralt element*) $e$: $e \# x = x = x \# e$ for all $x$;
 - **inverses** (when there is a unit $e$): $y$ is an inverse of $x$ if $x \# y = e = y \# x$.
 
 **Examples.**
